@@ -2,8 +2,18 @@
     background-color: #2A2356;
 }
 
+.topImage{
+    height:auto;
+    width: 6rem;
+}
+
 .middle{
     background-color: #E0D9F6;
+}
+
+.images img{
+    height: auto;
+    width: 4rem;
 }
 
 .coolQuote{
