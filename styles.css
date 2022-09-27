@@ -1,3 +1,23 @@
-* {
+.top{
+    background-color: #2A2356;
+}
+
+.middle{
+    background-color: #E0D9F6;
+}
+
+.coolQuote{
+    background-color: #C252E1;
+}
+
+.bottom {
+    background-color: #E0D9F6;
+}
+
+.callToAct{
+    background-color: #586AE2;
+}
+
+.footer {
     background-color: #2A2356;
 }
