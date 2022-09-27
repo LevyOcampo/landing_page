@@ -1,15 +1,17 @@
+*{
+    background-color: #E0D9F6;
+}
 .top{
     background-color: #2A2356;
 }
 
-.topImage{
+.top img{
     height:auto;
     width: 6rem;
 }
 
-.middle{
-    background-color: #E0D9F6;
-}
+/*.middle{
+}*/
 
 .images img{
     height: auto;
@@ -20,9 +22,9 @@
     background-color: #C252E1;
 }
 
-.bottom {
-    background-color: #E0D9F6;
-}
+/*.bottom {
+
+}*/
 
 .callToAct{
     background-color: #586AE2;
