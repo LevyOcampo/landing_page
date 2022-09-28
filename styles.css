@@ -2,10 +2,36 @@
     margin: 0;
     padding: 0;
 }
+/*Header CSS*/
 .header{
     background-color: #1F2937;
-    padding: 10px;
+    padding: 25px 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #F9FAF8;
 }
+.logo{
+    font-size: 24px;
+}
+.header header-links{
+    font-size: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: block;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+li{
+    float: right;
+}
+
+/*Top CSS*/
 .top{
     background-color: #1F2937;
     padding: 10px;
@@ -16,20 +42,21 @@
     height:auto;
     width: 6rem;
 }
-
+/*middle css*/
 .images img{
     height: auto;
     width: 4rem;
 }
-
+/*quote css*/
 .coolQuote{
     background-color: #E5E7EB;
 }
-
+/*call to action css*/
 .callToAct{
     background-color: #3882F6;
 }
-
+/*footer*/
 .footer {
     background-color: #1F2937;
+    color: #F9FAF8;
 }
