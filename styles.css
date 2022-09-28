@@ -5,7 +5,7 @@
 /*Header CSS*/
 .header{
     background-color: #1F2937;
-    padding: 25px 170px;
+    padding: 25px 400px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -40,7 +40,7 @@ li{
     color: #F9FAF8;
     display: flex;
     justify-content: space-between;
-    padding: 25px 170px;
+    padding: 25px 400px;
     align-items: center;
 }
 .top h1{
@@ -142,4 +142,7 @@ li{
 .footer {
     background-color: #1F2937;
     color: #F9FAF8;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
