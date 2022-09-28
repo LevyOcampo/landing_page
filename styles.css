@@ -1,17 +1,23 @@
-*{
-    background-color: #E0D9F6;
-}
 .top{
     background-color: #2A2356;
 }
 
+.top h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.top h2{
+    font-size: 24px;
+}
 .top img{
     height:auto;
     width: 6rem;
 }
 
-/*.middle{
-}*/
+.middle{
+    background-color: #E0D9F6;
+}
 
 .images img{
     height: auto;
