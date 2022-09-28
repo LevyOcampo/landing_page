@@ -1,22 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #1F2937;
+    padding: 10px;
+}
 .top{
-    background-color: #2A2356;
-}
-
-.top h1 {
-    font-size: 48px;
-    font-weight: bolder;
-}
-
-.top h2{
-    font-size: 24px;
+    background-color: #1F2937;
+    padding: 10px;
+    margin: 0;
+    border: 0;
 }
 .top img{
     height:auto;
     width: 6rem;
-}
-
-.middle{
-    background-color: #E0D9F6;
 }
 
 .images img{
@@ -25,17 +23,13 @@
 }
 
 .coolQuote{
-    background-color: #C252E1;
+    background-color: #E5E7EB;
 }
 
-/*.bottom {
-
-}*/
-
 .callToAct{
-    background-color: #586AE2;
+    background-color: #3882F6;
 }
 
 .footer {
-    background-color: #2A2356;
+    background-color: #1F2937;
 }
