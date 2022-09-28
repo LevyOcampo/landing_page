@@ -107,8 +107,36 @@ li{
     text-align: right;
 }
 /*call to action css*/
+.bottom{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .callToAct{
     background-color: #3882F6;
+    border-radius: 10px;
+    color: #F9FAF8;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+.txt1{
+    font-size: 30px;
+    font-style: bold;
+}
+.txt2{
+    font-size: 20px;
+}
+.callToAct button{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-color: #F9FAF8;
+    padding: 5px 20px;
+    font-size: 18px;
+    border-radius: 10px;
 }
 /*footer*/
 .footer {
