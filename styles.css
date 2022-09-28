@@ -91,6 +91,20 @@ li{
 /*quote css*/
 .coolQuote{
     background-color: #E5E7EB;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px 150px;
+    font-size: 36px;
+}
+.quote{
+    text-align: center;
+    font-style: italic;
+}
+
+.signed{
+    text-align: right;
 }
 /*call to action css*/
 .callToAct{
